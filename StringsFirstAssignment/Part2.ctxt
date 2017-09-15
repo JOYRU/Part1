@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Part2
-comment1.params=dna
-comment1.target=java.lang.String\ findSimpleGene\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(java.lang.String)
+comment1.params=dna\ startCodon\ stopCodon
+comment1.target=java.lang.String\ findSimpleGene\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000(java.lang.String,\ java.lang.String,\ java.lang.String)
 comment2.params=
 comment2.target=void\ testFindGeneSimple()
 numComments=3
